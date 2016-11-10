@@ -2,9 +2,12 @@
   "name": "lyricist",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://oiseaunoir.github.io/Lyricist",
+  "homepage": "https://chrisrobbins.io/Lyricist",
   "devDependencies": {
-    "react-scripts": "0.4.1"
+    "babel": "^6.5.2",
+    "babel-loader": "^6.2.7",
+    "react-scripts": "0.4.1",
+    "webpack": "^1.13.3"
   },
   "dependencies": {
     "axios": "^0.14.0",
